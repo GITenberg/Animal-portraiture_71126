@@ -1,0 +1,36 @@
+_repo: Animal-portraiture_71126
+_version: 0.0.1
+contributor:
+  artist:
+    agent_name: Kuhnert, Wilhelm
+    gutenberg_agent_id: '56085'
+    url: http://www.gutenberg.org/2009/agents/56085
+creator:
+  author:
+    agent_name: Lydekker, Richard
+    alias: Lydekker, R. (Richard)
+    birthdate: 1849
+    deathdate: 1915
+    gutenberg_agent_id: '45522'
+    url: http://www.gutenberg.org/2009/agents/45522
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Lydekker
+description: ''
+gutenberg_issued: '2023-07-05'
+identifiers:
+  gutenberg: '71126'
+language: en
+pgterms:marc904: https://archive.org/details/Animalportraitu00Lyde
+pgterms:marc905: 20230228151154lydekker
+pgterms:marc906: '1912'
+pgterms:marc907: GB
+production_note: Alan, Aaron Adrignola and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited Kingdom :$bFrederick Warne & Co., $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Animal portraiture
+url: http://www.gutenberg.org/ebooks/71126
