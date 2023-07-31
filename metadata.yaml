@@ -5,6 +5,9 @@ contributor:
     agent_name: Kuhnert, Wilhelm
     gutenberg_agent_id: '56085'
     url: http://www.gutenberg.org/2009/agents/56085
+covers:
+- cover_type: archival
+  image_path: 71126-h/images/cover.jpg
 creator:
   author:
     agent_name: Lydekker, Richard
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45522
     wikipedia: https://en.wikipedia.org/wiki/Richard_Lydekker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71126#Animal-portraiture
 gutenberg_issued: '2023-07-05'
 identifiers:
   gutenberg: '71126'
